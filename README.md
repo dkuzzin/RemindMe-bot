@@ -1,5 +1,6 @@
 # RemindMe-bot
 Маленький telegram бот, который управляет напоминаниями пользователя.
+Ник бота в тг: @dnRemind_bot (Пока отключен)
 
 <img width="1731" height="942" alt="image" src="https://github.com/user-attachments/assets/8ce778a6-0158-48e8-9f56-ce15d0f4103a" />
 <img width="1740" height="923" alt="image" src="https://github.com/user-attachments/assets/aa94a9f2-7010-4a98-ad2b-279555486f85" />
